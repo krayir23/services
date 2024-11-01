@@ -15,3 +15,4 @@
   * [Nexus Proof](others/nexus/nexus-proof.md)
   * [Nexus Prover](others/nexus/nexus-prover.md)
 * [Nubit Light Node](others/nubit-light-node.md)
+* [Risc Zero](others/risc-zero.md)
